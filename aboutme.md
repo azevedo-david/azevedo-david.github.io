@@ -1,16 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: *Math is born good, engineers corrupt it*
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi there, I'm David Azevedo, Msc. Student at the [Aeronautics Institute of Technology (ITA)](https://en.wikipedia.org/wiki/Instituto_Tecnol%C3%B3gico_de_Aeron%C3%A1utica), São José dos Campos, Brazil. I have a background in Mechanical Engineering and I'm specializing in the field of systems and control, focused on digital twins, predictive maintenance, and health management. I am curious about applying quantitative techniques to solve advanced analytics riddles.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- Reach me through [LinkedIn](https://www.linkedin.com/in/azevedo-david/).
